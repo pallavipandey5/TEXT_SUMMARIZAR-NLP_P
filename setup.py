@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "TEXT_SUMMARIZAR-NLP_P"
 AUTHOR_USER_NAME = "pallavipandey5"
 AUTHOR_EMAIL = "pallavipandey@iitbhilai.ac.in"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "text_summarizer"
 
 
 
